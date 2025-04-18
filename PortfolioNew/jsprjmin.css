@@ -1,0 +1,40 @@
+
+body{
+    text-align: center;
+    
+}
+.btn{
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    border: 3.5px solid black;
+    border-radius: 2rem;
+    margin-bottom: 8px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.this{
+    margin-right: 8px;
+    margin-top: 8px;
+}
+.that{
+    margin-top: 8px;
+}
+.red{
+    background-color: rgb(244, 180, 200);
+}
+.yellow{
+    background-color: rgb(239, 239, 163);
+}
+.green{
+    background-color: rgb(149, 231, 143);
+}
+.blue{
+    background-color: rgb(178, 178, 241);
+}
+
+.flash{
+    background-color: white;
+}
